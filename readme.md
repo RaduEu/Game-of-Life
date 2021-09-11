@@ -1,1 +1,1 @@
-
+This is an implementation of John Conway's Game of Life, written in Javascript. Click on a cell to  change its state from dead to alive and vice versa. Press the 'n' key to proceed to the next iteration.
